@@ -35,4 +35,3 @@ manager.TryStart(new TutorialId(1));                        // respects completi
 
 Deep reference: [MODULE.md](MODULE.md) — assemblies, key types, full public API, and the complete
 Setup / wiring guide (installer, tick host, overlay canvas, catalog, anchors).
-</content>

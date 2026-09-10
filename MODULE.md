@@ -295,4 +295,3 @@ dialog typewriter, and the auto-click pointer synthesis are verified in the edit
 - `OpenScreenStep` / `WaitForSignalStep<T>` are code-only (no authoring asset) and inert unless the
   matching `router` / `signals` collaborator is passed to `Install`. `OpenScreenStep` readiness is
   `Unreachable` when no router is wired.
-</content>
